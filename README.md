@@ -8,9 +8,9 @@
 
 ----------
 
-* 👨‍🎓 Student at Iona University
+* 👨‍🎓 Math Alum of Iona University
 * 🦟 Data and Software Enthusiast
-* 🌍  I'm based in New York, United States
+* 🌍  I'm based in New York & Hartford Conneticut
 * 🖥️  See my website [here](https://www.jmcanboy.com/)
 ----------
 
